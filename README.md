@@ -1,6 +1,6 @@
 # restaurant-tinder-backend
 
-Backend codebase for a restaurant matching web application that helps users decide which restaurant to eat at.
+Backend codebase for a restaurant matching web application that helps users decide which restaurant to eat at. Contains the express API server and MongoDB database.
 
 ## Members:
 - Members
@@ -16,4 +16,3 @@ After cloning the repository, you can run the current build locally by running:
 npm install
 node server.js
 ```
-The source files will be in [`restaurant-tinder-app/src`](https://github.com/rudyorre/restaurant-tinder/tree/main/restaurant-tinder-app/src).
