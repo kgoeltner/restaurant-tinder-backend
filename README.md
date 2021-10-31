@@ -15,3 +15,4 @@ After cloning the repository, you can run the current build locally by running:
 npm install
 node server.js
 ```
+**Make sure the frontend and backend servers are running on different ports**
