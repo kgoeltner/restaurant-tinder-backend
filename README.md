@@ -3,7 +3,6 @@
 Backend codebase for a restaurant matching web application that helps users decide which restaurant to eat at. Contains the express API server and MongoDB database.
 
 ## Members:
-- Members
 - Dioscuri
 - ezhang6811
 - ItsTim2001
